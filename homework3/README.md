@@ -8,13 +8,10 @@
     　( from 2018-01-05 to 2018-03-01 )
 
 ### Analysis:
-  　　requests<br>
-  　　beautifulsoup<br>
-  　　use several times loop beacuse the name of html tags are same<br>
-  　　define a function to change the page<br>
-  　　csv
-  
+  　　to see how much parking in different areas<br>
+  　　to see the most expensive parking<br>
+  　　to compare the value of mean and median in top 10 areas<br>
+
 ### License:
   　　cc 4.0
 
-### hope to write a complete story based on these data.
