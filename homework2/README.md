@@ -18,4 +18,6 @@
   　　page1 to page100 total 2000 items<br>
   　　( actually the website has 4000+ pages but in order to save poor computer... )
 
-### hope to write a complete story based on these data.
+### License:
+  　　cc 4.0
+
